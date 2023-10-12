@@ -1,5 +1,4 @@
-# jamf_laps
-Jamf Pro LAPS 
+Refer to the Wiki for the latest updates: https://github.com/the-wozz/jamf_laps/wiki
 
 # What 'Woz' Jamf LAPS does:
 
