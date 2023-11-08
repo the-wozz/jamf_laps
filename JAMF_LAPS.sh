@@ -26,9 +26,9 @@
 # Jamf Pro URL
 jamfProURL=
 # API 'Roles and Clients' client ID
-apiAccount="4dc9cf22-be62-4c4b-88d8-6457ab219833"
+apiAccount=""
 # API 'Roles and Clients' secret
-apiPassword="T1FkKtuqdwB64C2sLbI6ogzYmWGD_5PWekUaeVThE9-tjseLOFrFAOi9SEV242lY"
+apiPassword=""
 
 # Local Variables
 # Machine serial number
